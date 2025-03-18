@@ -1,0 +1,9 @@
+C:/Users/chenc/Documents/QT/build-Terrashield-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/Terrashield.dir
+C:/Users/chenc/Documents/QT/build-Terrashield-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/chenc/Documents/QT/build-Terrashield-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/chenc/Documents/QT/build-Terrashield-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/chenc/Documents/QT/build-Terrashield-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/chenc/Documents/QT/build-Terrashield-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/chenc/Documents/QT/build-Terrashield-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/chenc/Documents/QT/build-Terrashield-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/Terrashield_autogen_timestamp_deps.dir
+C:/Users/chenc/Documents/QT/build-Terrashield-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/Terrashield_autogen.dir
